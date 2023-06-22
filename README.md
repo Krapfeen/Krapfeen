@@ -20,6 +20,7 @@
 ### Query languages:
 
 - SQL
+- GraphQL
 
 ### Programming languages:
 
