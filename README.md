@@ -27,3 +27,4 @@
 
 - JavaScript
 - PHP
+- Bash
