@@ -21,6 +21,7 @@
 
 - SQL
 - GraphQL
+- XPath
 
 ### Programming languages:
 
